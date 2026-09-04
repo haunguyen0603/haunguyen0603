@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nguyen Thanh Hau
 
-<!--
-**haunguyen0603/haunguyen0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Performance Intelligence → Data Engineer → AI Engineer
 
-Here are some ideas to get you started:
+I work at the intersection of **analytics, data engineering, marketing technology, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My recent experience includes **SQL, Google BigQuery, dbt, REST APIs, Google Apps Script, GA4, data pipelines, data modeling, data quality, and workflow automation**.
+
+I am building this portfolio to demonstrate how I turn real business problems into **reliable, testable, and reusable data solutions**.
+
+## Core Skills
+
+- **Data Engineering:** SQL, ETL/ELT, data modeling, data pipelines, APIs, data quality
+- **Cloud & Warehouse:** Google BigQuery, dbt, GCP concepts
+- **Analytics:** GA4, GTM, Power BI, Looker
+- **Automation:** Python, Google Apps Script, REST API integration
+- **AI:** LLM applications, embeddings, RAG, vector search — currently expanding
+
+## Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [SEO Ranking Data Pipeline](../01-seo-ranking-data-pipeline) | API ingestion, batching, retries, validation, BigQuery-ready data |
+| [Marketing Data Lake](../02-marketing-data-lake) | Raw → staging → mart architecture, dbt, dimensional modeling |
+| [GA4 → BigQuery Analytics](../03-ga4-bigquery-analytics) | Event analytics, sessionization, KPI modeling |
+| [Data Quality Framework](../04-data-quality-framework) | Schema, null, duplicate and freshness checks |
+| [Company Knowledge RAG](../05-company-knowledge-rag) | Retrieval, embeddings, vector search, LLM application design |
+
+## Career Direction
+
+I am targeting **Data Engineer / Analytics Engineer** roles and building toward **AI Engineering**, with a focus on scalable data platforms and production-ready AI applications.
+
+## Contact
+
+- LinkedIn: `https://www.linkedin.com/in/hau-n-148568174`
+- Email: `haunguyen0603@gmail.com`
+- Portfolio: `https://haunguyen0603.github.io`
+
+> **Note:** All datasets and examples in this portfolio are synthetic or public-safe. No confidential company data, credentials, or internal source code are included.
