@@ -21,10 +21,7 @@ I am building this portfolio to demonstrate how I turn real business problems in
 | Project | What it demonstrates |
 |---|---|
 | [SEO Ranking Data Pipeline](https://github.com/haunguyen0603/seo-ranking-data-pipeline) | API ingestion, batching, retries, validation, BigQuery-ready data |
-| [Marketing Data Lake](../marketing-data-lake) | Raw → staging → mart architecture, dbt, dimensional modeling |
-| [GA4 → BigQuery Analytics](../ga4-bigquery-analytics) | Event analytics, sessionization, KPI modeling |
-| [Data Quality Framework](../data-quality-framework) | Schema, null, duplicate and freshness checks |
-| [Company Knowledge RAG](../company-knowledge-rag) | Retrieval, embeddings, vector search, LLM application design |
+| [Marketing Data Lake](https://github.com/haunguyen0603/marketing-data-lake) | Raw → staging → mart architecture, dbt, dimensional modeling |
 
 ## Career Direction
 
