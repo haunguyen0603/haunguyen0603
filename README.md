@@ -4,7 +4,7 @@
 
 I work at the intersection of **analytics, data engineering, marketing technology, and automation**.
 
-My recent experience includes **SQL, Google BigQuery, dbt, REST APIs, Google Apps Script, GA4, data pipelines, data modeling, data quality, and workflow automation**.
+My recent experience includes **SQL, Google BigQuery, dbt, REST APIs, Google Apps Script, data pipelines, data modeling, data quality, and workflow automation**.
 
 I am building this portfolio to demonstrate how I turn real business problems into **reliable, testable, and reusable data solutions**.
 
@@ -14,7 +14,6 @@ I am building this portfolio to demonstrate how I turn real business problems in
 - **Cloud & Warehouse:** Google BigQuery, dbt, GCP concepts
 - **Analytics:** GA4, GTM, Power BI, Looker
 - **Automation:** Python, Google Apps Script, REST API integration
-- **AI:** LLM applications, embeddings, RAG, vector search — currently expanding
 
 ## Featured Projects
 
