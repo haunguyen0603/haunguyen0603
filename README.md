@@ -22,6 +22,7 @@ I am building this portfolio to demonstrate how I turn real business problems in
 | [SEO Ranking Data Pipeline](https://github.com/haunguyen0603/seo-ranking-data-pipeline) | API ingestion, batching, retries, validation, BigQuery-ready data |
 | [Marketing Data Lake](https://github.com/haunguyen0603/marketing-data-lake) | Raw → staging → mart architecture, dbt, dimensional modeling |
 | [Data Quality Framework](https://github.com/haunguyen0603/data-quality-framework) | Schema, null, duplicate and freshness checks |
+| [Multi-Website SEO Rank Tracker](https://github.com/haunguyen0603/multi-website-seo-rank-tracker-v1) | SerpRobot API → list of projects/domains → Collector projects → get ranking data |
 
 ## Career Direction
 
